@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <!-- Social Platforms -->
 <div>
    <h2>Connect with me:</h2>
-   <code><a href="mailto:ashish.k.jha93@gmail.com"><img height="30" src="https://www.flaticon.com/free-icon/gmail_281769?k=1636564030780"></a></code>
-   <code><a href="https://www.linkedin.com/in/ashishjha43"><img height="30" src="assets/linkedin.svg"></a></code>
-   <code><a href="https://www.hackerrank.com/jha_ashish43"><img height="30" src="assets/hackerrank.svg"></a></code>
+   <code><a href="mailto:ashish.k.jha93@gmail.com"><img height="30" <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"></a></code>
+   <code><a href="https://www.linkedin.com/in/ashishjha43"><img height="30" <img src="https://img.icons8.com/external-justicon-flat-justicon/50/000000/external-linkedin-social-media-justicon-flat-justicon.png"></a></code>
+   <code><a href="https://www.hackerrank.com/jha_ashish43"><img height="30" <img src="https://img.icons8.com/windows/32/000000/hackerrank.png"></a></code>
 </div>
 
 <!-- Languages & Tools -->
